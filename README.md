@@ -55,4 +55,6 @@ A full stack web developer from Hungary. I've finished the masters in computer s
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezsekmv&show_icons=true&locale=en&layout=compact" alt="rezsekmv" />
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/rezsekmv)](https://leetcode.com/rezsekmv)
+
 <img align="center" src="https://komarev.com/ghpvc/?username=rezsekmv&label=Profile%20views&color=0e75b6&style=flat" alt="rezsekmv" />
